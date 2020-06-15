@@ -4,8 +4,11 @@
 ## 如何使用
 
 ESP32 刷入Micropython 
+
 将所有文件上传到ESP32
+
 将 menjin_with_uscocket_thread.py 改名为 main.py
+
 重启即可
 
 
